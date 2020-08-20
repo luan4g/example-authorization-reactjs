@@ -1,0 +1,22 @@
+html, body {
+  margin: 0;
+  padding: 0;
+}
+
+.container {
+  height: 100vh;
+  width: 100vw;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #e0e0f5;
+}
+
+.container button {
+  width: 4.6rem;
+  height: 2.4rem;
+  border: 1px solid #a0a0a0;
+  outline: 0;
+  border-radius: 0.8rem;
+  cursor: pointer;
+}
